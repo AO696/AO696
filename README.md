@@ -1,4 +1,4 @@
-## Hi there 👋
+## HALLOW EVERY ONE! 👋
 
 <!--
 **AO696/AO696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
