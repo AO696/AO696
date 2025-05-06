@@ -1,4 +1,4 @@
-## Hi there 👋
+[![CI](https://github.com/AO696/AO696/actions/workflows/blank.yml/badge.svg)](https://github.com/AO696/AO696/actions/workflows/blank.yml)## Hi there 👋
 
 <!--
 **AO696/AO696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
